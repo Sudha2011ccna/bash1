@@ -1,0 +1,4 @@
+netstat -a 
+netstat -l
+netstat -a 
+netstat -l
